@@ -1,0 +1,78 @@
+{
+  "lot_size": [
+    {
+      "from": 2,
+      "to": 8,
+      "inspection_level": { "I": "A", "II": "A", "III": "B" ,"S1": "A", "S2": "A", "S3": "A", "S4": "A" }
+    },
+    {
+      "from": 9,
+      "to": 15,
+      "inspection_level": { "I": "A", "II": "B", "III": "C" ,"S1": "A", "S2": "A", "S3": "A", "S4": "A" }
+    },
+    {
+      "from": 16,
+      "to": 25,
+      "inspection_level": { "I": "B", "II": "C", "III": "D" ,"S1": "A", "S2": "A", "S3": "B", "S4": "B" }
+    },
+    {
+      "from": 26,
+      "to": 50,
+      "inspection_level": { "I": "C", "II": "D", "III": "E" ,"S1": "A", "S2": "B", "S3": "B", "S4": "C" }
+    },
+    {
+      "from": 51,
+      "to": 90,
+      "inspection_level": { "I": "C", "II": "E", "III": "F" ,"S1": "B", "S2": "B", "S3": "C", "S4": "C" }
+    },
+    {
+      "from": 91,
+      "to": 150,
+      "inspection_level": { "I": "D", "II": "F", "III": "G" ,"S1": "B", "S2": "B", "S3": "C", "S4": "D" }
+    },
+    {
+      "from": 151,
+      "to": 280,
+      "inspection_level": { "I": "E", "II": "G", "III": "H" ,"S1": "B", "S2": "C", "S3": "D", "S4": "E" }
+    },
+    {
+      "from": 281,
+      "to": 500,
+      "inspection_level": { "I": "F", "II": "H", "III": "J" ,"S1": "B", "S2": "C", "S3": "D", "S4": "E" }
+    },
+    {
+      "from": 501,
+      "to": 1200,
+      "inspection_level": { "I": "G", "II": "J", "III": "K" ,"S1": "C", "S2": "C", "S3": "E", "S4": "F" }
+    },
+    {
+      "from": 1201,
+      "to": 3200,
+      "inspection_level": { "I": "H", "II": "K", "III": "L" ,"S1": "C", "S2": "D", "S3": "E", "S4": "G" }
+    },
+    {
+      "from": 3201,
+      "to": 10000,
+      "inspection_level": { "I": "J", "II": "L", "III": "M" ,"S1": "C", "S2": "D", "S3": "F", "S4": "G" }
+    },
+    {
+      "from": 10001,
+      "to": 35000,
+      "inspection_level": { "I": "K", "II": "M", "III": "N" ,"S1": "C", "S2": "D", "S3": "F", "S4": "H" }
+    },
+    {
+      "from": 35001,
+      "to": 150000,
+      "inspection_level": { "I": "L", "II": "N", "III": "P" ,"S1": "D", "S2": "E", "S3": "G", "S4": "J" }
+    },
+    {
+      "from": 150001,
+      "to": 500000,
+      "inspection_level": { "I": "M", "II": "P", "III": "Q" ,"S1": "D", "S2": "E", "S3": "G", "S4": "J" }
+    },
+    {
+      "from": 500001,
+      "inspection_level": { "I": "N", "II": "Q", "III": "R" ,"S1": "D", "S2": "E", "S3": "H", "S4": "K" }
+    }
+  ]
+}

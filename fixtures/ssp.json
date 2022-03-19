@@ -1,0 +1,788 @@
+{
+  "single_sampling_plan": [
+    {
+      "letter": "A",
+      "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "5", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "3", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "2", "ac": 0, "re": 1 }
+        }
+      ]
+    },
+    {
+        "letter": "B",
+        "size_by_aql": [
+          {
+              "id": "0.065",            
+              "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "0.10",            
+              "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "0.15",          
+              "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "0.25",
+              "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "0.40",          
+              "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "0.65",          
+              "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "1.0",          
+              "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "1.5",          
+              "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "2.5",
+              "aql": {  "size_value": "5", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "4.0",          
+              "aql": {  "size_value": "3", "ac": 0, "re": 1 }
+          },
+          {
+              "id": "6.5",
+              "aql": {  "size_value": "2", "ac": 0, "re": 1 }
+          }
+        ]
+    },
+    {
+    "letter": "C",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "5", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "3", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+        }
+    ]
+    },
+    {
+    "letter": "D",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "5", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "8", "ac": 1, "re": 2 }
+        }
+    ]
+    },
+    {
+    "letter": "E",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "8", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "20", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "13", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "13", "ac": 2, "re": 3 }
+        }
+    ]
+    },
+    {
+    "letter": "F",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "13", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "32", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "20", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "20", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "20", "ac": 3, "re": 4 }
+        }
+    ]
+    },
+    {
+    "letter": "G",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "20", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "50", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "32", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "32", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "32", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "32", "ac": 5, "re": 6 }
+        }
+    ]
+    },
+    {
+    "letter": "H",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value":"80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "32", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "80", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "50", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "50", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "50", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "50", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "50", "ac": 7, "re": 8 }
+        }
+    ]
+    },
+    {
+    "letter": "J",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "50", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "125", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "80", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "80", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "80", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "80", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "80", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "80", "ac": 10, "re": 11 }
+        }
+    ]
+    },
+    {
+    "letter": "K",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "80", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "200", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "125", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "125", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "125", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "125", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "125", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "125", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "125", "ac": 14, "re": 15 }
+        }
+    ]
+    },
+    {
+    "letter": "L",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "125", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "315", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "200", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "200", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "200", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "200", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "200", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "200", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "200", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    },
+    {
+    "letter": "M",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "200", "ac": 0, "re": 1 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "500", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "315", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "315", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "315", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "315", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "315", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "315", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "315", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "315", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    },
+    {
+    "letter": "N",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "800", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "500", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "500", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "500", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "500", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "500", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "500", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "500", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "500", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "315", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    },
+    {
+    "letter": "P",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "800", "ac": 1, "re": 2 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "800", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "800", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "800", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "800", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "800", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "800", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "800", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "500", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "315", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    },
+    {
+    "letter": "Q",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "1,250", "ac": 2, "re": 3 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "1,250", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "1,250", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "1,250", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "1,250", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "1,250", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "1,250", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "800", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "500", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "315", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    },
+    {
+    "letter": "R",
+    "size_by_aql": [
+        {
+            "id": "0.065",            
+            "aql": {  "size_value": "2,000", "ac": 3, "re": 4 }
+        },
+        {
+            "id": "0.10",            
+            "aql": {  "size_value": "2,000", "ac": 5, "re": 6 }
+        },
+        {
+            "id": "0.15",          
+            "aql": {  "size_value": "2,000", "ac": 7, "re": 8 }
+        },
+        {
+            "id": "0.25",
+            "aql": {  "size_value": "2,000", "ac": 10, "re": 11 }
+        },
+        {
+            "id": "0.40",          
+            "aql": {  "size_value": "2,000", "ac": 14, "re": 15 }
+        },
+        {
+            "id": "0.65",          
+            "aql": {  "size_value": "2,000", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "1.0",          
+            "aql": {  "size_value": "1,250", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "1.5",          
+            "aql": {  "size_value": "800", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "2.5",
+            "aql": {  "size_value": "500", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "4.0",          
+            "aql": {  "size_value": "315", "ac": 21, "re": 22 }
+        },
+        {
+            "id": "6.5",
+            "aql": {  "size_value": "200", "ac": 21, "re": 22 }
+        }
+    ]
+    }
+  ]
+}
