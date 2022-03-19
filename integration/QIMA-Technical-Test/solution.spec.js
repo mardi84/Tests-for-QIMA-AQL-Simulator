@@ -18,7 +18,7 @@ Cypress._.times(5, () => {
       }
     });
 
-    it("verify AQL Sampling Simulator ", () => {
+    it("verifies AQL Sampling Simulator ", () => {
       var quantity = getRandomQuantity();
       console.log("quantity: " + quantity);
       var inspectionLevel = getRandomInspectionLevel();
